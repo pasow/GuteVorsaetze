@@ -1,0 +1,4 @@
+node_modules
+bower_components
+public_html/assets/app.js
+public_html/assets/app.css
