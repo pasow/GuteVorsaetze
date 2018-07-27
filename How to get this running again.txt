@@ -3,3 +3,5 @@ npm install
 npm install -g bower
 bower install
 grunt watch
+
+use mamp for server, because php script only works there
