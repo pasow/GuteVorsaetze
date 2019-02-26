@@ -1,1 +1,10 @@
-{"t0":{"name":"Task 1","sarah":"checked"},"t1":{"name":"Task 2","sarah":"checked"},"t2":{"name":"Task 3","sarah":"checked"}}
+{
+	"t0":{"name":"Make 4 Danes come to your home at the same time"},
+	"t1":{"name":"Ride on a rollercoaster"},
+	"t2":{"name":"Organize a dinner in the dark at home"},
+	"t3":{"name":"Make/design something and try to sell it online"},
+	"t4":{"name":"Swim in the sea before April or after September"},
+	"t5":{"name":"Teach yourself to play the Ukulele"},
+	"t6":{"name":"Walk to your workplace"},
+	"t7":{"name":"Do not speak for 24h"}
+}
